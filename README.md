@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=numberw8835;Computer+Science+%26+Engineering;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Java;Systems+%26+Automation" alt="Typing SVG" />
 
   <p>
+    <em>"The universe computes by the principle of least action. We may never match the simulation, but our code should strive to approach it."</em>
+  </p>
+
+  <p>
     CSE engineer. Down to learn anything and put it to work.
   </p>
 
