@@ -5,7 +5,7 @@
 
 </div>
 
-$$ {\Huge \delta S = \delta \int \mathcal{L} \, dt = 0 \quad \cong \quad \min_{P} \mathcal{O}(M[P])} $$
+$$ {\Huge \delta S = \delta \int \mathcal{L} ~ dt = 0 \quad \cong \quad \min_{P} \mathcal{O}(M[P])} $$
 
 <div align="center">
 
