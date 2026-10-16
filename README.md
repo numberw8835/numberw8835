@@ -5,12 +5,18 @@
 
 </div>
 
-$$ \delta S = \delta \int \mathcal{L} \, dt = 0 \quad \cong \quad \min_{P} \mathcal{O}(M[P]) $$
+$$ {\Huge \delta S = \delta \int \mathcal{L} \, dt = 0 \quad \cong \quad \min_{P} \mathcal{O}(M[P])} $$
 
 <div align="center">
+
+  <p>
+    <em>"The universe computes by the principle of least action. We may never match the simulation, but our code should strive to approach it."</em>
+  </p>
+
   <p>
     CSE engineer. Down to learn anything and put it to work.
   </p>
+
 </div>
 
 ---
